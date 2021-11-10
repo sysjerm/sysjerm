@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sysjerm
-- 👀 I currently work in research and reverse enginneering iOS, macOS and *nix.
+- 👀 I currently work in security research and reverse enginneering iOS, macOS and *nix.
 - 🌱 I’m currently furthering my learning in reverse engineering on specific firmwares.
 - 💞️ I’m looking to collaborate on Google Project Zero.
 - 📫 How to reach me @phunkadelik on **Instagram** + @capnobvious on **Twitter**.
